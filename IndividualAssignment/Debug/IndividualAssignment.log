@@ -1,3 +1,19 @@
 ﻿  Source.cpp
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\source.cpp(273): warning C4018: '<': signed/unsigned mismatch
+  MyFunctions.cpp
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\myfunctions.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\myfunctions.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\myfunctions.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\myfunctions.cpp(166): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\thegreatgobert\documents\github\individualassignment\individualassignment\myfunctions.cpp(147): warning C4715: 'compareCost': not all control paths return a value
   IndividualAssignment.vcxproj -> C:\Users\TheGreatGobert\Documents\GitHub\IndividualAssignment\Debug\IndividualAssignment.exe
   IndividualAssignment.vcxproj -> C:\Users\TheGreatGobert\Documents\GitHub\IndividualAssignment\Debug\IndividualAssignment.pdb (Partial PDB)
